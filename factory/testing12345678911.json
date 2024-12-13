@@ -1,0 +1,9 @@
+{
+	"name": "testing12345678911",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "39f2a099-827b-4222-84d3-d24f7300db5b",
+		"tenantId": "f17be93d-4ad8-4e2e-900f-ebf6b6e212b4"
+	}
+}
